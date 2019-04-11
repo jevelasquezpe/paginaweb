@@ -1,0 +1,86 @@
+@import url(http://allfont.es/allfont.css?fonts=franklin-gothic-book);
+
+body{
+	margin: 0;
+	padding: 0;
+	background: #f47920;
+	background-size: cover;
+	font-family: 'Franklin Gothic Book', arial;
+}
+
+button{
+	border-radius: 5px;
+	padding: 10px 7px;
+	text-decoration: none;
+	color: #fff;
+	background-color: #005883;
+	margin: 5px;
+	cursor: pointer;
+}
+
+section{
+	display: flex;
+	max-width: 900px;
+	min-width: 500px;
+	margin: 0 auto;
+}
+
+h1{
+	color: #fff;
+	margin: 0.25em auto;
+	text-align: center;
+	text-shadow: 10px 10px 15px rgba(255,255,255,0.5);
+}
+
+h2{
+	color: #fff;
+
+}
+
+/*#wrapper{
+	display: flex;
+	border-radius: 10px;
+	background-color: #ccc;
+	height: 600px;
+	margin: 0 auto;
+	width: 700px;
+}
+*/
+
+/*#primero{
+	border-radius: 5px;
+	background-color: #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	float: left;
+	padding: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 200px;
+
+}
+*/
+
+/*#segundo{
+	border-radius: 5px;
+	background-color: #ddd;
+	box-shadow: 0 0 10px rgba(0,0,0,0.3);
+	float: left;
+	padding: 40px;
+	margin-left: 50px;
+	margin-top: 20px;
+	width: 200px;
+	
+}
+*/
+
+
+
+
+/*img{
+	text-align: center;
+	float: left;
+	width: 10em;
+	height: 10em;
+	padding-left: 270px;
+}
+*/

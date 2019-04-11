@@ -1,0 +1,13 @@
+#videos h3, h4{
+	text-align: center;
+}
+
+#videos .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+
+#videos article{
+	margin: 15px;
+}
